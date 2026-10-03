@@ -1,0 +1,16 @@
+Redis is used for caching.
+
+FastAPI is used for backend APIs.
+
+Redis works with FastAPI to improve performance.
+
+Neo4j stores connected knowledge.
+
+Graph RAG combines vector retrieval and graph traversal.
+
+
+b=Srilatha
+a=arpitha
+
+
+merge (a)-[sisters]-(b)
